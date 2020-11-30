@@ -1,4 +1,4 @@
-### Hi there 👋
+### Описание в процессе написания 👋
 
 <!--
 **phantom-nosferatu/phantom-nosferatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
